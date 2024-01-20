@@ -97,7 +97,7 @@
                                 <img class="img-fluid rounded w-50 wow zoomIn" data-wow-delay="0.5s" src="img/about/gua.jpg">
                             </div>
                             <div class="col-6 text-start">
-                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.7s" src="img/about-4.jpg">
+                                <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.7s" src="img/about/waduk_atas.jpg">
                             </div>
                         </div>
                     </div>

@@ -134,13 +134,29 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="room-item shadow rounded overflow-hidden">
                             <div class="position-relative">
-                                <img class="img-fluid" src="img/room-1.jpg" alt="">
+                                <img class="img-fluid" src="img/berita/blt.jpg" alt="">
                             </div>
                             <div class="p-4 mt-2">
                                 <div class="d-flex justify-content-between mb-3">
-                                    <h5 class="mb-0">Junior Suite</h5>
+                                    <h5 class="mb-0">Penyaluran BLT Desa Sindukarto</h5>
                                 </div>
-                                <p class="text-body mb-3">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="text-body mb-3">Penyaluran BLT kepada sebagian warga desa yang kurang mampu di Desa Sindukarto</p>
+                                <div class="d-flex justify-content-between">
+                                    <a class="btn btn-sm btn-primary rounded py-2 px-4" href="/blt.php">Selengkapnya</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="room-item shadow rounded overflow-hidden">
+                            <div class="position-relative">
+                                <img class="img-fluid" src="img/berita/pkk.jpg" alt="">
+                            </div>
+                            <div class="p-4 mt-2">
+                                <div class="d-flex justify-content-between mb-3">
+                                    <h5 class="mb-0">Pertemuan Rutin Ibu PKK Dusun Songputri Wetan</h5>
+                                </div>
+                                <p class="text-body mb-3">Pertemuan runtin Ibu-ibu PKK dusun Songputri Wetan setiap tanggal 25</p>
                                 <div class="d-flex justify-content-between">
                                     <a class="btn btn-sm btn-primary rounded py-2 px-4" href="">Selengkapnya</a>
                                 </div>
@@ -150,29 +166,13 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="room-item shadow rounded overflow-hidden">
                             <div class="position-relative">
-                                <img class="img-fluid" src="img/room-1.jpg" alt="">
+                                <img class="img-fluid" src="img/berita/prolanis.JPG" alt="">
                             </div>
                             <div class="p-4 mt-2">
                                 <div class="d-flex justify-content-between mb-3">
-                                    <h5 class="mb-0">Junior Suite</h5>
+                                    <h5 class="mb-0">Prolanis Desa Sindukarto</h5>
                                 </div>
-                                <p class="text-body mb-3">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                                <div class="d-flex justify-content-between">
-                                    <a class="btn btn-sm btn-primary rounded py-2 px-4" href="">Selengkapnya</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="room-item shadow rounded overflow-hidden">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/room-1.jpg" alt="">
-                            </div>
-                            <div class="p-4 mt-2">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <h5 class="mb-0">Junior Suite</h5>
-                                </div>
-                                <p class="text-body mb-3">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="text-body mb-3">Prolanis desa Sindukarto dari Pusjesmas 1 Eromoko.</p>
                                 <div class="d-flex justify-content-between">
                                     <a class="btn btn-sm btn-primary rounded py-2 px-4" href="">Selengkapnya</a>
                                 </div>
@@ -190,16 +190,16 @@
             <div class="row g-0">
                 <div class="col-md-6 bg-dark d-flex align-items-center">
                     <div class="p-5">
-                        <h6 class="section-title text-start text-white text-uppercase mb-3"></h6>
+                        <!-- <h6 class="section-title text-start text-white text-uppercase mb-3"></h6> -->
                         <h1 class="text-white mb-4">Pesona Alam Desa Sindukarto</h1>
-                        <p class="text-white mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                        <!-- <p class="text-white mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p> -->
                         <!-- <a href="" class="btn btn-primary py-md-3 px-md-5 me-3">Our Rooms</a>
                         <a href="" class="btn btn-light py-md-3 px-md-5">Book A Room</a> -->
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="video">
-                        <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/5-y8IMLvRw4?si=-oFTnZcP0vq6S2PL" data-bs-target="#videoModal">
+                        <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/BxS5Bjj2lKo?si=y2wg5vgBlnIJmBv8" data-bs-target="#videoModal">
                             <span></span>
                         </button>
                     </div>

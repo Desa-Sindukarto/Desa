@@ -31,7 +31,7 @@
                                 <a href="/desa_perangkat.php" class="dropdown-item">Perangkat Desa</a>
                             </div>
                         </div>
-                        <a href="#" class="nav-item nav-link">Layanan</a>
+                        <a href="/layanan.php" class="nav-item nav-link">Layanan</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Informasi</a>
                             <div class="dropdown-menu rounded-0 m-0">

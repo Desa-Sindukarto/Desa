@@ -15,7 +15,10 @@
                 <h6 class="section-title text-start text-primary text-uppercase mb-4">Contact</h6>
                 <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Sindukarto, Eromoko, Wonogiri</p>
                 <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+021 123 098098</p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                <p class="mb-2">
+                    <i class="fa fa-envelope me-3"></i>
+                    <a href="https://desa.sindukarta@gmail.com">desa.sindukarta@gmail.com</a>
+                </p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -27,9 +30,8 @@
                 <div class="row gy-5 g-4">
                     <div class="col-md-6">
                         <h6 class="section-title text-start text-primary text-uppercase mb-4">Pemerintahan</h6>
-                        <a class="btn btn-link" href="">Struktur Organisasi</a>
-                        <a class="btn btn-link" href="">Perangkat Desa</a>
-                        <a class="btn btn-link" href="">Lembaga Desa</a>
+                        <a class="btn btn-link" href="/desa_struktur.php">Struktur Organisasi</a>
+                        <a class="btn btn-link" href="/desa_perangkat.php">Perangkat Desa</a>
                     </div>
                     <div class="col-md-6">
                         <h6 class="section-title text-start text-primary text-uppercase mb-4">Informasi</h6>
